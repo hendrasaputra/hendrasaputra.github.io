@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Moved from Ghost to Jekyll
