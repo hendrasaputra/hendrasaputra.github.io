@@ -1,0 +1,11 @@
+---
+layout: post
+title: My Dock
+date: 2009-10-29 08:49:00.000000000 +07:00
+---
+<img alt="Mydoc" height="41" src="http://gilagiback.files.wordpress.com/2009/10/mydoc1.png?w=300" width="497" />
+
+Following meme by <a target="_blank">Aulia</a>, <a href="http://anima.dudut.com/archives/whats-your-dock-look-like.html" target="_blank">Anima</a>&nbsp;and <a href="http://spruiked.posterous.com/what-does-your-dock-or-task-bar-look-like" target="_blank">Brett</a>&nbsp;about how does your Dock/Taskbar looks like on a daily use. 
+
+I'm not any kind of power user, just your typical office worker. I got my Vmware Fusion running (some of us still use MS Excel to work, I know... its lame), Mail connected to corporate Exchange, Gmail on Fluid, Safari for most of the browsing, Firefox because of Firebug, Adium, iCal, Tweetie, Netnewswire, Textmate for all kind of editing and coding, Dictionary because my English suck.
+  
