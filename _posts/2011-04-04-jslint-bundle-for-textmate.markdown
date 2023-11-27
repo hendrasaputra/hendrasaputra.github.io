@@ -1,7 +1,10 @@
 ---
 layout: post
 title: JSLint Bundle for TextMate
+author: hendrasaputra
 date: 2011-04-04 13:31:00.000000000 +07:00
+categories: [code, js]
+tags: [featured]
 ---
 
 Developer yang bekerja dengan JavaScript tentu familiar dengan tools <a href="http://jslint.com" title="JSLint">JSLint</a> buatan Douglas Rockford. Masalahnya biasanya penggunaan <a href="http://jslint.com" title="JSLint">JSLint</a> ini adalah dengan mengunjungi <a href="http://jslint.com" title="JSLint">URL</a> lalu melakukan copy-paste code di website tersebut untuk dianalisa. Untuk pengguna TextMate berikut ini adalah cara yang lebih nyaman untuk melakukan jslint terhadap code JavaScript yang kita punya. Caranya adalah dengan membuat bundle dari script JSLint ini di TextMate. Pembuatan bundle ini menggunakan bantuan dari engine <a href="https://github.com/senchalabs/hammerjs" title="HammerJS">HammerJS</a> buatan Ariya Hidayat. Berikut adalah step-by-step pembuatannya

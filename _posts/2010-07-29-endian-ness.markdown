@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Endian-ness
+author: hendrasaputra
 date: 2010-07-29 10:10:00.000000000 +07:00
+categories: [blog, code]
+tags: [featured]
 ---
 
 Getting `short int` and `long int` from a byte character on C can make

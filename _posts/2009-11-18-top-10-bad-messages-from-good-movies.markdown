@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Top 10 Bad Messages From Good Movies
+author: hendrasaputra
 date: 2009-11-18 16:20:00.000000000 +07:00
+categories: [commentaries, movie]
 ---
+When we watch movies, unconsciously we try to get values from what we see. Even 'Good' movies sometimes give bad or wrong message if you look further. But again this doesn't mean we must condemned the movie, as civil man we should filter out good from bad by ourself.
+
 >10. If you&rsquo;re not born with special abilities, you&rsquo;re never going to be any good at some things, no matter how hard you try (from the Harry Potter movies, and, of course, books).&nbsp;
 >9. No matter how appallingly bad conditions on Earth get, so long as there is one tiny plant on the planet, it can still be restored to its former beauty and sustainability (from WALL-E).&nbsp;
 >8. Technology is fundamentally evil (from lots of movies, including the The Lord of the Rings trilogy).&nbsp;
@@ -16,4 +20,3 @@ date: 2009-11-18 16:20:00.000000000 +07:00
 
 via <a href="http://www.wired.com/geekdad/2009/11/top-10-bad-messages-from-good-movies">wired.com</a>
 
-When we watch movies, unconsciously we try to get values from what we see. Even 'Good' movies sometimes give bad or wrong message if you look further. But again this doesn't mean we must condemned the movie, as civil man we should filter out good from bad by ourself.

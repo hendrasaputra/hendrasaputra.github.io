@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Open File Descriptor Count .
+title: Open File Descriptor Count
+author: hendrasaputra
 date: 2010-07-29 09:23:00.000000000 +07:00
+categories: [code, awk]
 ---
 
 Here&rsquo;s an awk function I keep using to find out how many open files a

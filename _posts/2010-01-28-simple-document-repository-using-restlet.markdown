@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Simple Document Repository Using RESTlet
+author: hendrasaputra
 date: 2010-01-28 13:44:00.000000000 +07:00
+categories: [blog, code]
+tags: [featured]
 ---
 
 REST architecture basically utilized [Uniform Resource Identifier](http://www.ietf.org/rfc/rfc2396.txt) for a restricted set of operation done via HTTP vocabulary. The most common vocabulary is GET, POST, PUT and DELETE. In my current project we need to have a simple way to store and retrieve PDF documents via a web server.

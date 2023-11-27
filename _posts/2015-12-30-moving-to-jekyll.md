@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moving to Jekyll
+author: hendrasaputra
 date: 2015-08-30 18:50:19.000000000 +07:00
 published: false
 ---

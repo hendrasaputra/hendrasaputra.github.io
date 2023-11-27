@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Thank You, SJ
+author: hendrasaputra
 date: 2011-08-25 10:06:00.000000000 +07:00
+categories: [commentaries, apple]
 ---
 
 Today (Thu Aug 25, 2011) marks yet another new era for Apple. Another era in which Steve Jobs is no longer CEO. But unlike the previous time, this time he’s not kicked out of Apple. Instead he’s becoming the <a href="http://twitter.com/amasna/status/106547684864827392">King</a>. 

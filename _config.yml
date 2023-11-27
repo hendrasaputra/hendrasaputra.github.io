@@ -1,63 +1,60 @@
-# Site wide configuration
+# Site
+name: 'Pixelized Thoughts'
+description: 'Hensap Thoughts and Musings'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/favicon.ico'
+apple-touch-icon: 'assets/images/apple-touch-icon.png'
+favicon-32x32: 'assets/images/favicon-32x32.png'
+favicon-16x16: 'assets/images/favicon-16x16.png'
+baseurl: ''
+disqus: 'hendrasaputra'
+email: 'hendrasaputra@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-title:            Pixelized Thoughts
-locale:           en_US
-url:              http://hendrasaputra.com
+include: ["_pages"]
+permalink: /:title/
 
-
-# Jekyll configuration
-
-permalink:   /:title/
-markdown:    kramdown
-highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
+# Plugins
+plugins: 
+  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    hendrasaputra:
+      name:           Hendra Saputra
+      site:           http://www.hendrasaputra.com
+      avatar:         assets/images/hs-avatar.jpg
+      bio:            "Lifelong Learner. Tech Observer. Casual Photographer. Avid Reader."
+      email:          hendrasaputra@gmail.com
+      twitter:        https://twitter.com/hendrasaputra
+       
+# Defaults
+defaults:
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: hendrasaputra
+      avatar: assets/images/hs-avatar.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
 
 
-# Site owner
-owner:
-  name: Hendra Saputra
-  avatar: hs-photo.jpg
-  bio: "Insatiable knowledge seeker, code monkey, movie addict."
-  email: 
-  disqus-shortname:
-  twitter: hendrasaputra
-  facebook: abinyamirza
-  google:
-    plus: 
-    analytics: UA-1749517-5
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: hendrasaputra
-  stackoverflow: 76045/hendrasaputra #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: hendrasaputra
-  xing: #username
-  instagram: hendrasaputra
-  lastfm: #username
-  tumblr: hendrasaputra
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: hendrasaputra
-  codepen: #username
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-
-theme: jekyll-theme-minimal
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

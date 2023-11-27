@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Not a Cure for Jakarta Traffic Jam
+author: hendrasaputra
 date: 2009-09-24 12:41:00.000000000 +07:00
+categories: [commentaries, social]
 ---
 
 >The Jakarta city administration is determined to proceed with a plan to implement an electronic road-pricing system even though it has been rejected by a key House of the Representatives committee, a city official said.
