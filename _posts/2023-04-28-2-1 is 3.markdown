@@ -5,7 +5,7 @@ date: 2023-04-28 15:31:19.000000000 +07:00
 author: hendrasaputra
 image: assets/images/hensap_catboy_black_light_illustration.png
 categories: [blog]
-tags: [sticky,featured]
+tags: [featured]
 ---
 I am raised in a religious family with strong emphasis on science, rationality and logic. That is two tension that is probably very hard to reconcile. As I grew older I realized those two point of view actually intertwined to become my strongest foundation.
 
